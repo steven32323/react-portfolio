@@ -41,7 +41,7 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "Actively looking to break into the tech industry",
+      text: "Actively looking for a Frontend Developer role",
     },
     {
       emoji: "📧",
@@ -77,7 +77,7 @@ export const info = {
     // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
     // Just change the links so that they lead to your social profiles.
   ],
-  bio: "Hello! I'm Steven. I'm currently a Senior Team Leader at Scotmid Co-operative. I'm a self-taught learner, I enjoy coding and gaming, and I'm both amazed and terrified of recent advances in AI. You should hire me!",
+  bio: "Hello! I'm Steven. I'm currently a Senior Team Leader at Scotmid Co-operative. I'm a self-taught learner, I enjoy coding and gaming, and I'm both amazed and terrified of recent advances in AI.",
   skills: {
     proficientWith: [
       "javascript",
