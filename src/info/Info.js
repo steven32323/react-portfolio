@@ -135,9 +135,9 @@ export const info = {
       image: mock2,
     },
     {
-      title: "Bankist App (Login: user: js, pass: 1111)",
-      live: "https://steven32323.github.io/Bankist/",
-      source: "https://github.com/steven32323/Bankist",
+      title: "JustReact - a food ordering app",
+      live: "https://justreact-foodapp.netlify.app/",
+      source: "https://github.com/steven32323/react-FoodOrderApp",
       image: mock3,
     },
     // {
