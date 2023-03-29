@@ -2,7 +2,7 @@ import self from "../img/self.png";
 import mock1 from "../img/mock1.png";
 import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
-// import mock4 from "../img/mock4.png";
+import mock4 from "../img/mock4.png";
 // import mock5 from "../img/mock5.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -140,12 +140,12 @@ export const info = {
       source: "https://github.com/steven32323/react-FoodOrderApp",
       image: mock3,
     },
-    // {
-    //   title: "Project 4",
-    //   live: "https://paytonpierce.dev",
-    //   source: "https://github.com/paytonjewell",
-    //   image: mock4,
-    // },
+    {
+      title: "Airbnb Experiences mockup",
+      live: "https://airbnb-experiencesclone.netlify.app/",
+      source: "https://github.com/steven32323/react-airbnb-clone",
+      image: mock4,
+    },
     // {
     //   title: "Project 5",
     //   live: "https://paytonpierce.dev",
