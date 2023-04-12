@@ -3,7 +3,7 @@ import mock1 from "../img/mock1.png";
 import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
-// import mock5 from "../img/mock5.png";
+import mock5 from "../img/mock5.png";
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -123,9 +123,21 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
+      title: "Tenzies",
+      live: "https://ssmith-tenzies.netlify.app/",
+      source: "https://github.com/steven32323/Tenzies",
+      image: mock5,
+    },
+    {
+      title: "JustReact - a food ordering app",
+      live: "https://justreact-foodapp.netlify.app/",
+      source: "https://github.com/steven32323/react-FoodOrderApp",
+      image: mock3,
+    },
+    {
       title: "Expense Tracker",
-      live: "https://ssmithexpensetracker.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-      source: "https://github.com/steven32323/react-expense-tracker", // this should be a link to the **repository** of the project, where the code is hosted.
+      live: "https://ssmithexpensetracker.netlify.app/",
+      source: "https://github.com/steven32323/react-expense-tracker",
       image: mock1,
     },
     {
@@ -135,22 +147,10 @@ export const info = {
       image: mock2,
     },
     {
-      title: "JustReact - a food ordering app",
-      live: "https://justreact-foodapp.netlify.app/",
-      source: "https://github.com/steven32323/react-FoodOrderApp",
-      image: mock3,
-    },
-    {
       title: "Airbnb Experiences mockup",
       live: "https://airbnb-experiencesclone.netlify.app/",
       source: "https://github.com/steven32323/react-airbnb-clone",
       image: mock4,
     },
-    // {
-    //   title: "Project 5",
-    //   live: "https://paytonpierce.dev",
-    //   source: "https://github.com/paytonjewell",
-    //   image: mock5,
-    // },
   ],
 };
