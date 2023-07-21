@@ -11,7 +11,7 @@ export const info = {
   firstName: "Steven",
   lastName: "Smith",
   initials: "ss",
-  position: "a Frontend Developer",
+  position: "a Fullstack Developer",
   selfPortrait: self,
   gradient: `-webkit-linear-gradient(135deg, ${colors})`,
   baseColor: colors[0],
@@ -26,11 +26,11 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "Actively looking for a Frontend Developer role",
+      text: "Actively looking for a Junior Developer role",
     },
     {
       emoji: "📧",
-      text: "stevo323231@gmail.com",
+      text: "steven@steven-smith-dev.co.uk",
     },
   ],
   socials: [
@@ -52,7 +52,7 @@ export const info = {
       "react",
       "git",
       "github",
-      "bootstrap",
+      "PHP",
       "html5",
       "css3",
       "ChatGPT",
@@ -88,6 +88,14 @@ export const info = {
   ],
   portfolio: [
     {
+      title: "Gazeteer",
+      description:
+        "Designed mobile-first using PHP and jQuery, allows the user to browse the world, with various data points being displayed, such as local currency/exchange rate, points of interest, population and more!",
+      live: "https://steven-smith-dev.co.uk/gazeteer/",
+      source: "https://github.com/steven32323/stevenSmith/tree/main/project1",
+      image: mock4,
+    },
+    {
       title: "Tenzies",
       description:
         ' Made with React (and some heavy CSS to style the dice faces). A simple game with 10 dice, the player can click dice to "Hold" them, which prevent them from being rerolled. The goal is to have 10 matching dice.',
@@ -118,14 +126,6 @@ export const info = {
       live: "https://steven32323.github.io/Bankist-Landing-Page/",
       source: "https://github.com/steven32323/Bankist-Landing-Page",
       image: mock2,
-    },
-    {
-      title: "Airbnb Experiences mockup",
-      description:
-        "Part of the Scrimba React course. A simple mockup of the Airbnb Experiences page. Top half of the page is static, with the bottom half dynamically rendering based on properties such as image, price, and availability",
-      live: "https://airbnb-experiencesclone.netlify.app/",
-      source: "https://github.com/steven32323/react-airbnb-clone",
-      image: mock4,
     },
   ],
 };
