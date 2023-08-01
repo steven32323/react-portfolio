@@ -88,6 +88,15 @@ export const info = {
   ],
   portfolio: [
     {
+      title: "Company Directory",
+      description:
+        "This project is a company directory application built with React, PHP and SQL. It allows users to view, add, and delete personnel, departments, and locations.",
+      live: "https://steven-smith-dev.co.uk/company-directory/",
+      source:
+        "https://github.com/steven32323/stevenSmith/tree/main/project2/company%20directory",
+      image: mock2,
+    },
+    {
       title: "Gazeteer",
       description:
         "Designed mobile-first using PHP and jQuery, allows the user to browse the world, with various data points being displayed, such as local currency/exchange rate, points of interest, population and more!",
@@ -118,14 +127,6 @@ export const info = {
       live: "https://ssmithexpensetracker.netlify.app/",
       source: "https://github.com/steven32323/react-expense-tracker",
       image: mock1,
-    },
-    {
-      title: "Bankist Landing Page",
-      description:
-        "Made using pure Javascript, practicing lazy loading, slow scrolling, modal windows and carousels.",
-      live: "https://steven32323.github.io/Bankist-Landing-Page/",
-      source: "https://github.com/steven32323/Bankist-Landing-Page",
-      image: mock2,
     },
   ],
 };
